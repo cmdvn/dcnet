@@ -396,6 +396,10 @@ html {
         margin-bottom: 80px;
     }
 
+    .section3-container a {
+        text-decoration: none;
+    }
+
     .section3-upper {
         display: flex;
         justify-content: space-between;
