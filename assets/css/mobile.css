@@ -6,6 +6,7 @@
         margin-left: auto;
         margin-right: auto;
         position: relative;
+        padding-top: 15px;
     }
 
     .section1-container {
@@ -21,7 +22,7 @@
         animation-name: rotate_infi;
         animation-duration: 3s;
         animation-iteration-count: infinite;
-        top: 4px;
+        top: -5px;
         right: -30px;
         width: 90.941px;
         height: 90.268px;
@@ -52,7 +53,7 @@
     .section1-background .right {
         position: absolute;
         bottom: 10px;
-        right: -30px;
+        right: -35px;
         width: 98.2511px;
         height: 91.087px;
         animation-name: rotate_infinite;
@@ -89,7 +90,6 @@
 
     .section1-header .header-text {
         font-size: 15px;
-        margin: 30px 0 10px 0;
     }
 
     .section1-container .section1-content {
@@ -231,7 +231,7 @@
     #section2 {
         margin-left: auto;
         margin-right: auto;
-        margin-top: 30px;
+        margin-top: 20px;
     }
 
     #section2 .section2-container {
@@ -498,19 +498,6 @@
         text-align: left;
         padding-top: 1px;
         padding-right: 20px;
-    }
-
-    .footer {
-        background-color: #000;
-        height: 40px;
-        margin-top: 60px;
-    }
-    
-    .footer p {
-        color: #fff;
-        text-align: center;
-        padding-top: 10px;
-        font-size: 8px;
     }
 
 }
